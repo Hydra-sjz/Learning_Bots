@@ -71,7 +71,7 @@
 
 ### 🛠 Commands & Usage
 
-The Alice Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Learning Bots offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -84,6 +84,7 @@ The Alice Music Bot offers a range of commands to enhance your music listening e
 
 For a full list of commands, use `/help` in [telegram](https://t.me/thanos_pro).
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ### 🔄 Updates & Support
@@ -91,15 +92,17 @@ For a full list of commands, use `/help` in [telegram](https://t.me/thanos_pro).
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/thanosprosss">
+  <a href="https://telegram.me/Learningbots79">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/thanos_pro">
+  <a href="https://telegram.me/Learning_bots">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 🤝 Contributing
 
