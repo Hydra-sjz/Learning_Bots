@@ -41,7 +41,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamAviax/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/rishabhops/alicev6 && cd alicev6
    ```
 6. **Install Requirements**
    ```bash
@@ -66,6 +66,11 @@
 10. **Run the Bot**
     ```bash
     bash start
+    ```
+
+11. **exit to tmux**
+    ```bash
+    ctrl+b+d
     ```
 
 ---
